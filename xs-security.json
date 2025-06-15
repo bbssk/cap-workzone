@@ -1,0 +1,15 @@
+{
+  "xsappname": "book_shop_app",
+  "tenant-mode": "dedicated",
+  "scopes": [
+  ],
+  "attributes": [],
+  "role-templates": [
+  ],
+  "oauth2-configuration": {
+    "redirect-uris": [
+      "https://*.cfapps.us10-001.hana.ondemand.com/login/callback",
+      "https://*.applicationstudio.cloud.sap/**"
+    ]
+  }
+}
