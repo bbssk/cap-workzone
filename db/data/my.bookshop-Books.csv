@@ -1,3 +1,11 @@
-ID,title,stock
-1,Wuthering Heights,100
-2,Jane Eyre,500
+ID,title,stock,author
+1,The Pragmatic Programmer,42,Andrew Hunt
+2,Clean Code,37,Robert C. Martin
+3,Domain-Driven Design,15,Eric Evans
+4,Introduction to Algorithms,21,Thomas H. Cormen
+5,Design Patterns,18,Erich Gamma
+6,Refactoring,25,Martin Fowler
+7,The Clean Coder,30,Robert C. Martin
+8,Head First Design Patterns,40,Eric Freeman
+9,Working Effectively with Legacy Code,10,Michael Feathers
+10,Continuous Delivery,12,Jez Humble

@@ -14,10 +14,12 @@
     "@cap-js/cds-types": "^0.10.0"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "watch-fioriapp1": "cds watch --open fioriapp1/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "sapux": [
     "app/admin-books",
-    "app/browse"
+    "app/browse",
+    "app/fioriapp1"
   ]
 }
